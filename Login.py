@@ -1,4 +1,3 @@
-# Starting with a login
 users = {}
 status = ""
 
